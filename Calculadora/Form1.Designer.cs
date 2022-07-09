@@ -330,28 +330,31 @@
         }
 
         #endregion
-
+        private Button numero_0;
         private Button numero_1;
         private Button numero_2;
-        private TextBox resultado;
-        private Button btn_resultado;
         private Button numero_3;
-        private Button multiplicar;
-        private Button division;
-        private Button sumar;
-        private Button btn_limpiar;
         private Button numero_4;
         private Button numero_5;
         private Button numero_6;
         private Button numero_7;
         private Button numero_8;
         private Button numero_9;
-        private Button numero_0;
-        private Button punto;
-        private Button borrar;
-        private Button enter;
+        
+        private Button multiplicar;
+        private Button division;
+        private Button sumar;
         private Button resta;
         private Button raiz;
         private Button itbis;
+
+        private Button punto;
+        private Button borrar;
+        private Button enter;
+        private Button btn_resultado;
+        private Button btn_limpiar;
+
+        private TextBox resultado;
+
     }
 }

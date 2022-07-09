@@ -88,8 +88,6 @@ namespace Calculadora
                     presentar(valor2.ToString());
                     temporal = null;
                 }
-
-                
             }
         }
 
@@ -200,7 +198,5 @@ namespace Calculadora
             temporal = null;
             resultado.Clear();
         }
-
-        
     }
 }
